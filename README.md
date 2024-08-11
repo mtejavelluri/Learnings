@@ -1,2 +1,2 @@
 # Learnings
-for learning purposes
+for learning purposes only
