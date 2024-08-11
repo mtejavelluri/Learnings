@@ -1,4 +1,6 @@
 # Learnings
 for learning purposes only
-# git commands
-# git clone
+
+#git commands
+#git clone
+#git pull
