@@ -1,7 +1,8 @@
 # Learnings
 for learning purposes only
 
-#git commands-18-Aug-2024
+#git commands - Date: 18-Aug-2024(issue for merge conflict)
+
 #git clone
 #git pull
 #git add
